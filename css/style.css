@@ -1,0 +1,12 @@
+body {background-color: #ffd7ba
+}
+
+nav {
+	background-color: green !important ;
+}
+.navbar-light .navbar-brand {color: #6d6875;}
+
+col-sm {
+	color: black;
+	font-weight: bold;
+}
